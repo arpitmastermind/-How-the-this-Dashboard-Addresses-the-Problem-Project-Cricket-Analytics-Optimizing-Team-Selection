@@ -1,5 +1,5 @@
 
-# ANALYZE ECOMMERCE SALES DATA
+# CRICKET ANALYTICS: OPTIMIZING TEAM SELECTION
 
 ### Power BI Dashboard Link : https://drive.google.com/file/d/1djZZCYEbeY3jLxF6kb0cbfHND6xKvO25/view?usp=sharing
 
